@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rakesh Kushwaha
-**A passionate Certified Cloud Practioner and Web Devloper**
+**A AWS Certified Cloud Practioner and Web Devloper**
 
 Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
