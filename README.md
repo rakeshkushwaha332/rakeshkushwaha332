@@ -5,6 +5,8 @@ Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project o
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshkushwaha332&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![An image of @rakeshkushwaha332's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakeshkushwaha332)](https://holopin.io/@rakeshkushwaha332)
+
 
 
 # 💻 Tech Stack:
