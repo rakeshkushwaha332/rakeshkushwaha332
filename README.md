@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project o
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshkushwaha332&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![An image of @rakeshkushwaha332's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakeshkushwaha332)](https://holopin.io/@rakeshkushwaha332)
+
 
 
 
@@ -29,6 +29,11 @@ Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project o
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/578756548994793475) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakeshkushwaha_332) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkushwaha332/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rakesh-Kushwaha-355) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/578756548994793475) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/22787218/rakesh-kushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkushwaha332@gmail.com) 
+
+
+### ✍ Badge
+
+[![Hacktoberfest 2024 Badge](https://holopin.io/api/badge/cm289vpwv45730dlajyh6b7fi)](https://www.holopin.io/hacktoberfest2024/userbadge/cm289vpwv45730dlajyh6b7fi)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
