@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rakesh Kushwaha
 **A AWS Certified Cloud Practioner and Web Devloper**
 
-Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me  **rakeshkushwaha332@gmail.com** For Collaboration/Project or Anything Else.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshkushwaha332&theme=radical&no-frame=false&no-bg=true&margin-w=4)
