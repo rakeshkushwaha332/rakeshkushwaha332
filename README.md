@@ -17,7 +17,6 @@ Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkushwaha332&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<!-- Snake Game Repo View -->
 
 
 
@@ -30,8 +29,6 @@ Email Me 👉 ✉️ **rakeshkushwaha332@gmail.com** For Collaboration/Project o
 
 [![Hacktoberfest 2024 Badge](https://holopin.io/api/badge/cm289vpwv45730dlajyh6b7fi)](https://www.holopin.io/hacktoberfest2024/userbadge/cm289vpwv45730dlajyh6b7fi)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakeshkushwaha332&limit=5&theme=dark&combine_all_yearly_contributions=true)
